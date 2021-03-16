@@ -38,7 +38,7 @@ class HomeScreen extends StatelessWidget {
                         height: 70.0,
                       ),
                       Text(
-                        "generar reporte",
+                        "reportes",
                         style: new TextStyle(
                           fontSize: 17.0,
                           fontWeight: FontWeight.bold,
@@ -68,7 +68,7 @@ class HomeScreen extends StatelessWidget {
                         height: 80.0,
                       ),
                       Text(
-                        "generar alerta",
+                        "alertas",
                         style: new TextStyle(
                             fontSize: 17.0, fontWeight: FontWeight.bold),
                       )
